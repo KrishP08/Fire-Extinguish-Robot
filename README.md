@@ -1,5 +1,5 @@
 # Fire-Extinguish-Robot
-Fire Extinguish Robot using pi or jetson Nano,it main use is to locate and extinguish the fire camera sencer and water pump 
+Fire Extinguish Robot using arduino it main use is to locate and extinguish the fire with sencer and water pump 
 
 I add CAD file i add two file one is single file of whole model and one is file with every part file and i was not able to add Raspberry Pi 5 model so it place it empty and i make this in onshape so i did not know how to get it source file
 
@@ -8,11 +8,11 @@ I add CAD file i add two file one is single file of whole model and one is file 
 
 # this is Part list and what is it use
 
-### 1. Raspberry Pi 5 (8GB RAM)
+### 1. arduino
 
 Main controller (“brain”)
 
-Runs ML fire detection
+Runs fire detection
 
 Controls motors, sensors, pumps
 
