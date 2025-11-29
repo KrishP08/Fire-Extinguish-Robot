@@ -5,6 +5,9 @@ I add CAD file i add two file one is single file of whole model and one is file 
 
 # This is a image of final 3d model our car going to look like this when it done
 ![Car 3d model](./image/3d_model.jpg)
+![Car 3d model](./image/p1.jpg)
+![Car 3d model](./image/p2.jpg)
+![Car 3d model](./image/p3.jpg)
 
 # this is Part list and what is it use
 
