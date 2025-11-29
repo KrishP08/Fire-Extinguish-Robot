@@ -18,8 +18,6 @@ Controls motors, sensors, pumps
 
 Handles navigation/path planning
 
-Captures camera feed
-
 ### 2. L298N V3 Four DC Motor Driver
 
 Drives 4 DC motors
@@ -52,25 +50,19 @@ Strong & fire-resistant
 
 Base structure of the robot
 
-### 6. Raspberry Pi Camera Module V2
-
-Captures video for ML
-
-Used for fire detection and navigation
-
-### 7. MG995 (360°) Servo Motor
+### 6. MG995 (360°) Servo Motor
 
 Rotates water nozzle
 
 Aims water up/down/left/right
 
-### 8. 12V 5000 RPM Peristaltic Pump
+### 7. 12V 5000 RPM Peristaltic Pump
 
 Pumps water safely
 
 Used for spraying water on fire
 
-### 9. EasyMech 6mm Coupling Hub
+### 8. EasyMech 6mm Coupling Hub
 
 Connects motor shaft to mecanum wheel
 
