@@ -1,10 +1,11 @@
-No.,Website,Product Name,Quantity,Price per Piece (₹),Total Price (₹),Total Price in USB,Product Link,Remarks 
-1,Robocraze.com,Arduino UNO EK (एक) R4 Minima,1,Rs800.00,Rs800.00,$9.02,Link,Development Bord
-2,Robu.in,L298N V3 Four DC Motor Driver,1,Rs978.00,Rs978.00,$11.03,Link,Motor driver
-3,Robu.in,EasyMech 6mm Coupling Hub For 60mm,4,Rs144.00,Rs576.00,$6.49,Link,
-4,Robu.in,Pro-Range 12V 300 RPM Johnson Geared DC Motor,4,Rs499.00,"Rs1,996.00",$22.51,Link,
-5,Robu.in,Advance Metal Chassis 2,1,Rs177.00,Rs177.00,$2.00,Link,
-6,Robocraze.com,MG995 High Speed Servo Motor(360 Degree),1,Rs294.00,Rs294.00,$3.31,Link,
-7,Robu.in,60mm Aluminum Mecanum Wheel,1,"Rs1,506.00","Rs1,506.00",$17.44,Link,
-8,Robocraze.com,12V 5000RPM Peristaltic Dosing Pump,1,Rs565.00,Rs565.00,$6.54,Link,
-,,,13,,"Rs6,327.00",$71.80,,
+No.	Website	Product Name	Quantity	Price per Piece (₹)	Total Price (₹)	Total Price in USB	Product Link	Remarks 
+1	Robocraze.com	Arduino UNO EK (एक) R4 Minima	1	Rs699.00	Rs699.00	$7.77	Link	Development Bord
+2	Robu.in	L298N V3 Four DC Motor Driver	1	Rs978.00	Rs978.00	$10.87	Link	Motor driver
+3	Robu.in	EasyMech 6mm Coupling Hub For 60mm	4	Rs195.00	Rs780.00	$8.67	Link	
+4	Robu.in	Pro-Range 12V 300 RPM Johnson Geared DC Motor	4	Rs519.00	Rs2,076.00	$23.08	Link	
+5	Robu.in	Advance Metal Chassis 2	1	Rs140.00	Rs140.00	$1.56	Link	
+6	Robocraze.com	MG995 High Speed Servo Motor(360 Degree)	1	Rs449.00	Rs449.00	$4.99	Link	
+7	Robu.in	60mm Aluminum Mecanum Wheel	1	Rs1,506.00	Rs1,506.00	$16.74	Link	
+8	Robocraze.com	12V 5000RPM Peristaltic Dosing Pump	1	Rs565.00	Rs565.00	$6.28	Link	
+								
+,,,13,,"Rs7,193.00",$79.96,,
